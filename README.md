@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ashmit Jain</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **STuFf**
+- 🔭 I’m currently working on **GameGrove and Titanic survivability rate**
 
-- 🌱 I’m currently learning **Tailwind, React, Framer and Figma**
+- 🌱 I’m currently learning **Tailwind, React and Figma**
 
-- 👯 I’m looking to collaborate on **Im not :P**
+- 👯 I’m looking to collaborate on **ML and Web Dev projects**
 
 - 🤝 I’m looking for help with **Im not :P**
 
