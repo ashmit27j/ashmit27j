@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ashmit Jain</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">I'm Ashmit Jain</h1>
+<h3 align="center">A budding web-developer</h3>
 
 - 🔭 I’m currently working on **GameGrove and Titanic survivability rate**
 
@@ -7,17 +7,13 @@
 
 - 👯 I’m looking to collaborate on **ML and Web Dev projects**
 
-- 🤝 I’m looking for help with **Im not :P**
+- 🤝 I’m looking for help with **Web dev and design projects**
 
 - 👨‍💻 All of my projects are available at [Under-construction](Under-construction)
 
-- 📝 I regularly write articles on [None :P](None :P)
-
-- 💬 Ask me about **Dont ask me >...<**
-
 - 📫 How to reach me **ashmit27j@gmail.com**
 
-- 📄 Know about my experiences [None :P](None :P)
+- 📄 Know about my experiences
 
 - ⚡ Fun fact **I like cats :3**
 
