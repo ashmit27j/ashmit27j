@@ -1,9 +1,9 @@
 <h1 align="center">I'm Ashmit Jain</h1>
-<h3 align="center">A budding web-developer</h3>
+<h3 align="center">A budding Engineer</h3>
 
 - 🔭 I’m currently working on **GameGrove and Titanic survivability rate**
 
-- 🌱 I’m currently learning **Tailwind, React and Figma**
+- 🌱 I’m currently learning **Python and React**
 
 - 👯 I’m looking to collaborate on **ML and Web Dev projects**
 
