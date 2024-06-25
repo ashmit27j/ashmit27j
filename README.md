@@ -19,13 +19,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/ashmit-jain-386427292/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" style="width:30px;height:30px;">
+</a>
 <a href="https://www.instagram.com/your-profile/](https://www.instagram.com/ashmit27j/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" style="width:30px;height:30px;">
 </a>
 
-<a href="https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/ashmit-jain-386427292/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" style="width:30px;height:30px;">
-</a>
+
 
 </p>
 
