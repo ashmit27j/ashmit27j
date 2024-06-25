@@ -1,13 +1,13 @@
 <h1 align="center">I'm Ashmit Jain</h1>
 <!-- <h3 align="center">A budding Engineer</h3> -->
 
-- 🔭 I’m currently working on **TimeSculpt**
+- 🔭 I’m currently working on **Portfolio**
 
-- 🌱 I’m currently learning **Python and React**
+- 🌱 I’m currently learning **UI/UX and Fullstack Web Development**
 
-- 👯 I’m looking to collaborate on **ML and Web Dev projects**
+- 👯 I’m looking to collaborate on **UI/UX and Web-Dev projects**
 
-- 🤝 I’m looking for help with **Web dev and design projects**
+- 🤝 I’m looking for help with **UI/UX and Web-Dev projects**
 
 - 👨‍💻 All of my projects are available at [Under-construction](Under-construction)
 
