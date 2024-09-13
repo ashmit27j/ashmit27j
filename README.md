@@ -1,7 +1,7 @@
 <h1 align="center">I'm Ashmit Jain</h1>
 <!-- <h3 align="center">A budding Engineer</h3> -->
 
-- 🔭 I’m currently working on **Portfolio**
+- 🔭 Here's My Portfolio Website! **[Portfolio](https://ashmit27j.github.io/)**
 
 - 🌱 I’m currently learning **UI/UX and Fullstack Web Development**
 
