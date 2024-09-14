@@ -3,19 +3,11 @@
 
 - 🔭 Here's My Portfolio Website! **[Portfolio](https://ashmit27j.github.io/)**
 
-- 🌱 I’m currently learning **UI/UX and Fullstack Web Development**
+- 🌱 I’m currently learning **UI/UX and Machine Learning**
 
-- 👯 I’m looking to collaborate on **UI/UX and Web-Dev projects**
-
-- 🤝 I’m looking for help with **UI/UX and Web-Dev projects**
-
-- 👨‍💻 All of my projects are available at [Under-construction](Under-construction)
+- 🤝 I’m looking for help with **UI/UX and ML Projects**
 
 - 📫 How to reach me **ashmit27j@gmail.com**
-
-- 📄 Know about my experiences
-
-- ⚡ Fun fact **I like cats :3**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
