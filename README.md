@@ -72,6 +72,6 @@
 <h3 align="left">📊 GitHub Stats:</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ashmit27j&show_icons=true&theme=radical" alt="Ashmit's GitHub stats" />
- <img src="https://github-readme-streak-stats.herokuapp.com?user=ashmit27j&theme=radical" alt="Ashmit's Streak Stats" />
+ <img src="https://github-readme-streak-stats.vercel.app/?user=ashmit27j&theme=radical" alt="Ashmit's Streak Stats" />
 
 </p>
