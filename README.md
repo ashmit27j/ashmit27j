@@ -8,7 +8,7 @@
 
 ---
 
-🌟 **Current Project:** [CollegeBuddy](https://github.com/sukhada35/College-Buddy) – A React + Vite app for managing college tasks and events.  
+🌟 **Current Project:** [CollegeBuddy](https://github.com/sukhada35/College-Buddy) – A React + Vite app for Networking in college.  
 🌱 **Currently Learning:** ReactJS, Assembly, Java, and AI/ML  
 🤝 **Looking for Collaborations:** UI/UX and ML projects  
 📫 **Reach Me At:** ashmit27j@gmail.com  
