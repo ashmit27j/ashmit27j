@@ -8,14 +8,14 @@
 
 ---
 
-🌟 **Current Project:** [CollegeBuddy](https://github.com/ashmit27j/CollegeBuddy) – A React + Vite app for managing college tasks and events.  
+🌟 **Current Project:** [CollegeBuddy](https://github.com/sukhada35/College-Buddy) – A React + Vite app for managing college tasks and events.  
 🌱 **Currently Learning:** ReactJS, Assembly, Java, and AI/ML  
 🤝 **Looking for Collaborations:** UI/UX and ML projects  
 📫 **Reach Me At:** ashmit27j@gmail.com  
 
 ---
 
-<h3 align="left">📱 Connect with me:</h3>
+<h3 align="left">📱 Connect with me :)</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/ashmit-jain-386427292/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="30" height="30"/>
