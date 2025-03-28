@@ -20,7 +20,7 @@
   <a href="https://www.linkedin.com/in/ashmit-jain-386427292/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="30" height="30"/>
   </a>
-  <a href="https://www.instagram.com/ashmit27j/" target="_blank">
+  <a href="https://www.instagram.com/ashmit.poetry/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="30" height="30"/>
   </a>
 </p>
@@ -42,8 +42,11 @@
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   </a>
+  <a href="https://isocpp.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  </a>
   <a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Assembly" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/AssemblyScript_logo.svg" alt="Assembly" width="40" height="40"/>
   </a>
   <a href="https://www.w3.org/html/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
@@ -53,6 +56,9 @@
   </a>
 
   <!-- Frameworks and Libraries -->
+  <a href="https://angular.io/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40"/>
+  </a>
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
   </a>
@@ -72,6 +78,5 @@
 <h3 align="left">📊 GitHub Stats:</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ashmit27j&show_icons=true&theme=radical" alt="Ashmit's GitHub stats" />
- <img src="https://github-readme-streak-stats.vercel.app/?user=ashmit27j&theme=radical" alt="Ashmit's Streak Stats" />
-
+  <img src="https://github-readme-streak-stats.vercel.app/?user=ashmit27j&theme=radical" alt="Ashmit's Streak Stats" />
 </p>
