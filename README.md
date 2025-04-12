@@ -10,7 +10,7 @@
 
 🌟 **Current Project:** [CollegeBuddy](https://github.com/sukhada35/College-Buddy) – A React + Vite app for Networking in college.  
 🌱 **Currently Learning:** ReactJS, Assembly, Java, and AI/ML  
-🤝 **Looking for Collaborations:** UI/UX and ML projects  
+🤝 **Looking for Collaborations:** Web and App Development Projects
 📫 **Reach Me At:** ashmit27j@gmail.com  
 
 ---
