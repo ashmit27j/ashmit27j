@@ -1,71 +1,60 @@
 # Ashmit Jain
 
-🚀 [Portfolio](https://ashmit27j.github.io/)
-
 ---
 
 ### 👨‍💻 About Me
 
-I’m Ashmit Jain, a tech enthusiast passionate about problem-solving, building digital products, and exploring new technologies.  
-I enjoy working across the stack and have a growing interest in AI/ML and systems-level programming.
+I'm Ashmit Jain, a full-stack web developer and aspiring software engineer with a strong interest in problem-solving, system design, and user-centric development.
 
-- 💻 Currently working on: [CollegeBuddy](https://github.com/sukhada35/College-Buddy) – A React + Vite app for campus networking  
-- 📚 Currently learning: ReactJS, Assembly, Java, and AI/ML  
-- 🤝 Open to collaborations in web and app development  
-- 📬 Reach me at: ashmit27j@gmail.com
-
----
-
-### 🔗 Connect With Me
-
-<p>
-  <a href="https://www.linkedin.com/in/ashmit-jain-386427292/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="30"/>
-  </a>
-  <a href="https://www.instagram.com/ashmit.poetry/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="30"/>
-  </a>
-</p>
+- 🔭 Currently working on: CollegeBuddy – a React + Vite based social platform for students.
+- 🧠 Currently learning: ReactJS, Java, Assembly, and AI/ML concepts.
+- 🤝 Open to collaborating on full-stack and real-time applications.
+- 📬 Reach me via: ashmit27j@gmail.com
 
 ---
 
-### 🛠️ Technical Skills
+### 🔗 Connect with Me
 
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/AssemblyScript_logo.svg" alt="Assembly" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg" alt="Vite" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40"/>
-</p>
+<a href="mailto:ashmit27j@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+<a href="https://www.linkedin.com/in/ashmit-jain-386427292/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://stackoverflow.com/users/your-id">
+  <img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"/>
+</a>
+
+---
+
+### 🛠️ Tech Stack
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+<img src="https://img.shields.io/badge/Assembly-808080?style=for-the-badge"/>
 
 ---
 
 ### 📝 About Stuff I Write
 
-- 📚 [My Blogs](https://your-blog-link.com)  
-- 📄 [My Research Papers](https://your-research-link.com)
+- 📘 [Blogs](https://your-blog-link.com)  
+- 📄 [Research Papers](https://your-research-link.com)
 
 ---
 
-### 📊 GitHub Stats
+### 📊 My GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashmit27j&show_icons=true&theme=radical" alt="Ashmit's GitHub stats"/>
-</p>
-
----
-
-### 📌 Most Used Languages
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashmit27j&layout=compact&theme=radical" alt="Ashmit's Top Languages"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ashmit27j&show_icons=true&theme=dark&border_radius=10" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashmit27j&layout=compact&theme=dark&border_radius=10" width="350"/>
+</div>
