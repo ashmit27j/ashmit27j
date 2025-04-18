@@ -1,6 +1,7 @@
 # Ashmit Jain
 
-🎯 Passionate about building impactful digital experiences through clean code and intuitive design.
+Aspiring Software Developer 
+Passionate about building impactful digital experiences through clean code and intuitive design.
 
 ---
 
