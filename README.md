@@ -8,7 +8,7 @@ Passionate about building impactful digital experiences through clean code and i
 ### 🔎 About Me
 
 - 🛠️ Currently working on: [CollegeBuddy](https://github.com/sukhada35/College-Buddy) – a React + Vite-based networking platform for college students  
-- 📚 Currently learning: ReactJS, Assembly Language, Java, AI/ML  
+- 📚 Currently learning: ReactJS, Assembly Language, Java, AI/ML, Cybersec
 - 🤝 Open to collaborations in Web and App Development  
 - 📬 Reach out: **ashmit27j@gmail.com**
 
