@@ -1,15 +1,15 @@
 # Ashmit Jain
 
-Aspiring Software Developer 
+Aspiring Software Developer  
 Passionate about building impactful digital experiences through clean code and intuitive design.
 
 ---
 
 ### 🔎 About Me
 
-- 🛠️ Currently working on: [CollegeBuddy](https://github.com/sukhada35/College-Buddy) – a React + Vite-based networking platform for college students  
-- 📚 Currently learning: ReactJS, Assembly Language, Java, AI/ML, Cybersec
-- 🤝 Open to collaborations in Web and App Development  
+- 🛠️ Currently working on: **MealPlanner** – an iOS mobile app to plan healthy meals quickly  
+- 📚 Currently learning: ReactJS, SwiftUI, Assembly Language, Java, AI/ML, Cybersec  
+- 🤝 Open to collaborations in Web, App, and iOS Development  
 - 📬 Reach out: **ashmit27j@gmail.com**
 
 ---
@@ -36,6 +36,9 @@ Passionate about building impactful digital experiences through clean code and i
 ### 🧠 Tech Stack
 
 <p>
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SwiftUI-0A84FF?style=for-the-badge&logo=swift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
@@ -53,7 +56,7 @@ Passionate about building impactful digital experiences through clean code and i
 
 ---
 
-### ✍️ About Stuff I Write
+### 📚 Links
 
 - 📝 [My Blogs](https://ashmit27j.wixstudio.com/my-blogs)  
 - 📄 [My Research Papers](https://www.researchgate.net/profile/Ashmit-Jain)
