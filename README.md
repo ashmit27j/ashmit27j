@@ -58,7 +58,7 @@ Passionate about building impactful digital experiences through clean code and i
 
 ### 📚 Links
 
-- 📝 [My Blogs](https://ashmit27j.wixstudio.com/my-blogs)  
+- 📝 [My Blogs](https://ashmit27j.wixstudio.com/my-blogs)  🚧
 - 📄 [My Research Papers](https://www.researchgate.net/profile/Ashmit-Jain)
 
 ---
