@@ -7,10 +7,24 @@ Passionate about building impactful digital experiences through clean code and i
 
 ### 🔎 About Me
 
-- 🛠️ Currently working on: **MealPlanner** – an iOS mobile app to plan healthy meals quickly  
-- 📚 Currently learning: ReactJS, SwiftUI, Assembly Language, Java, AI/ML, Cybersec  
+- 🛠️ Currently working on: **Nosh** – an iOS app to help plan and cook healthy meals quickly  
+- 📚 Currently learning: Swift, SwiftUI, ReactJS  
 - 🤝 Open to collaborations in Web, App, and iOS Development  
 - 📬 Reach out: **ashmit27j@gmail.com**
+
+---
+
+### 💼 Experience
+
+- **iOS Developer Intern**  
+  **Digitas India** · On-site  
+  *Jun 2025 – Present*  
+  Working on feature-rich iOS apps using Swift and SwiftUI.
+
+- **UI/UX Designer Intern**  
+  **Synoris Information Systems Pvt. Ltd.** · Hybrid  
+  *May 2024 – May 2025*  
+  UI/UX Designer & Web Developer crafting seamless, user-focused digital experiences.
 
 ---
 
@@ -20,7 +34,7 @@ Passionate about building impactful digital experiences through clean code and i
   <a href="mailto:ashmit27j@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/ashmit-jain-386427292/">
+  <a href="https://www.linkedin.com/in/ashmitjain/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://stackoverflow.com/users/22767913/ashmit">
@@ -58,14 +72,14 @@ Passionate about building impactful digital experiences through clean code and i
 
 ### 📚 Links
 
-- 📝 [My Blogs](https://ashmit27j.wixstudio.com/my-blogs)  🚧
-- 📄 [My Research Papers](https://www.researchgate.net/profile/Ashmit-Jain)
+- ✍️ **[Blogs](https://ashmit27j.wixstudio.com/my-blogs)**  
+- 📖 **[Publications](https://www.researchgate.net/profile/Ashmit-Jain)**  
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashmit27j&show_icons=true&theme=tokyonight" alt="Ashmit's GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashmit27j&layout=compact&theme=dark&border_radius=10" width="350"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ashmit27j&show_icons=true&theme=tokyonight&border_radius=10" alt="Ashmit's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashmit27j&layout=compact&theme=tokyonight&border_radius=10" width="350"/>
 </p>
