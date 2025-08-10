@@ -8,7 +8,7 @@ Passionate about building impactful digital experiences through clean code and i
 ### 🔎 About Me
 
 - 🛠️ Currently working on: **Nosh** – an iOS app to help plan and cook healthy meals quickly  
-- 📚 Currently learning: Swift, SwiftUI, ReactJS  
+- 📚 Currently learning: Swift, SwiftUI, ReactJS   
 - 🤝 Open to collaborations in Web, App, and iOS Development  
 - 📬 Reach out: **ashmit27j@gmail.com**
 
