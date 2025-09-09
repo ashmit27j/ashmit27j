@@ -1,6 +1,6 @@
 # Ashmit Jain
 
-Aspiring Software Developer  
+Aspiring Software Engineer  
 Passionate about building impactful digital experiences through clean code and intuitive design.
 
 ---
