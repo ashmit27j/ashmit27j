@@ -1,20 +1,19 @@
 # Ashmit Jain
 
 Aspiring Software Engineer  
-Passionate about building impactful digital experiences through clean code and intuitive design.
+Passionate about problem solving and building impactful digital experiences through clean code and intuitive design.
 
 ---
 
-### 🔎 About Me
+### About Me
 
-- 🛠️ Currently working on: **Nosh** – an iOS app to help plan and cook healthy meals quickly  
-- 📚 Currently learning:  
-- 🤝 Open to collaborations in Web, App, and iOS Development  
-- 📬 Reach out: **ashmit27j@gmail.com**
+- Currently working on: **<undisclosed>** 
+- Currently learning: Cybersecurity and Networking
+- Reach out: **ashmit27j@gmail.com**
 
 ---
 
-### 💼 Experience
+### Experience
 
 - **iOS Developer Intern**  
   **Digitas India** · On-site  
@@ -28,7 +27,7 @@ Passionate about building impactful digital experiences through clean code and i
 
 ---
 
-### 🌐 Connect With Me
+### Connect With Me
 
 <p>
   <a href="mailto:ashmit27j@gmail.com">
@@ -47,7 +46,7 @@ Passionate about building impactful digital experiences through clean code and i
 
 ---
 
-### 🧠 Tech Stack
+### Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
@@ -70,14 +69,14 @@ Passionate about building impactful digital experiences through clean code and i
 
 ---
 
-### 📚 Links
+### Links
 
-- ✍️ **[Blogs](https://ashmit27j.wixstudio.com/my-blogs)**  
-- 📖 **[Publications](https://www.researchgate.net/profile/Ashmit-Jain)**  
+- **[Blogs](https://ashmit27j.wixstudio.com/my-blogs)**  
+- **[Publications](https://www.researchgate.net/profile/Ashmit-Jain)**  
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ashmit27j&show_icons=true&theme=tokyonight&border_radius=10" alt="Ashmit's GitHub Stats"/>
