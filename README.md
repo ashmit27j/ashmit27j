@@ -75,10 +75,3 @@ Passionate about problem solving and building impactful digital experiences thro
 - **[Publications](https://www.researchgate.net/profile/Ashmit-Jain)**  
 
 ---
-
-### GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashmit27j&show_icons=true&theme=tokyonight&border_radius=10" alt="Ashmit's GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashmit27j&layout=compact&theme=tokyonight&border_radius=10" width="350"/>
-</p>
