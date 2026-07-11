@@ -21,11 +21,9 @@ I'm an Aspiring Security Engineer with an interest in systems programming, netwo
 
 ### Connect
 
-**Portfolio:** https://ashmit27j.github.io
-
-**LinkedIn:** https://linkedin.com/in/ashmitjain
-
-**Email:** ashmit27j@gmail.com
+- **Portfolio:** https://ashmit27j.github.io
+- **LinkedIn:** https://linkedin.com/in/ashmitjain
+- **Email:** ashmit27j@gmail.com
 
 ---
 
