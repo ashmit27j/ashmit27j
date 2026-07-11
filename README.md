@@ -1,14 +1,9 @@
 # Ashmit Jain
-Cogito, ergo sum.
+
+Aspiring Security Engineer with interests in systems programming, cybersecurity, networking, and software engineering.
 
 ---
 
-### About Me
-
-- Aspiring Security Engineer
-- Reach out: **ashmit27j@gmail.com**
-
----
 
 ### Experience
 
@@ -24,22 +19,19 @@ Cogito, ergo sum.
 
 ---
 
-### Connect With Me
+### Connect
 
-<p>
-  <a href="mailto:ashmit27j@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/ashmitjain/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://stackoverflow.com/users/22767913/ashmit">
-    <img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/>
-  </a>
-  <a href="https://www.hackerrank.com/profile/ashmit27j">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-  </a>
-</p>
+**Portfolio:** https://ashmit27j.github.io
+
+**LinkedIn:** https://linkedin.com/in/ashmitjain
+
+**GitHub:** https://github.com/ashmit27j
+
+**Stack Overflow:** https://stackoverflow.com/users/22767913/ashmit
+
+**HackerRank:** https://www.hackerrank.com/profile/ashmit27j
+
+**Email:** ashmit27j@gmail.com
 
 ---
 
@@ -51,12 +43,12 @@ Cogito, ergo sum.
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 
-  <!-- Programming & Scripting -->
+  <!-- Programming -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
-  <!-- Operating Systems & DevOps -->
+  <!-- Systems & DevOps -->
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
@@ -68,16 +60,19 @@ Cogito, ergo sum.
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 
-  <!-- Apple Development -->
+  <!-- Apple -->
   <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
   <img src="https://img.shields.io/badge/SwiftUI-0A84FF?style=for-the-badge&logo=swift&logoColor=white"/>
 </p>
----
-
-### My Sites
-
-- **[Portfolio](https://ashmit27j.github.io/)**
-- **[Nosh](https://ashmit27j.github.io/NoshApp/)** – A meal planning and nutrition tracking application built for iOS.
-- **[Blogs](https://ashmit27j.github.io/unwritten/)** – My writings.
 
 ---
+
+### Projects
+
+- **Portfolio** — https://ashmit27j.github.io/
+- **Nosh** — https://ashmit27j.github.io/NoshApp/
+- **Unwritten** — https://ashmit27j.github.io/unwritten/
+
+---
+
+> *Cogito, ergo sum.*
