@@ -1,6 +1,6 @@
 # Ashmit Jain
 
-Aspiring Security Engineer with interests in systems programming, cybersecurity, networking, and software engineering.
+I'm an Aspiring Security Engineer with an interest in systems programming, networks, and software engineering.
 
 ---
 
