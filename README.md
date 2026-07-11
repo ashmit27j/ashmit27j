@@ -25,12 +25,6 @@ I'm an Aspiring Security Engineer with an interest in systems programming, netwo
 
 **LinkedIn:** https://linkedin.com/in/ashmitjain
 
-**GitHub:** https://github.com/ashmit27j
-
-**Stack Overflow:** https://stackoverflow.com/users/22767913/ashmit
-
-**HackerRank:** https://www.hackerrank.com/profile/ashmit27j
-
 **Email:** ashmit27j@gmail.com
 
 ---
@@ -69,9 +63,9 @@ I'm an Aspiring Security Engineer with an interest in systems programming, netwo
 
 ### Projects
 
-- **Portfolio** — https://ashmit27j.github.io/
 - **Nosh** — https://ashmit27j.github.io/NoshApp/
 - **Unwritten** — https://ashmit27j.github.io/unwritten/
+- **Death Penalty** — coming soon
 
 ---
 
