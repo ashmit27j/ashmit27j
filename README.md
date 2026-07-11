@@ -1,14 +1,11 @@
 # Ashmit Jain
-
-Aspiring Software Engineer  
-Passionate about problem solving and building impactful digital experiences through clean code and intuitive design.
+I think therefore, I am.
 
 ---
 
 ### About Me
 
-- Currently working on: **<undisclosed>** 
-- Currently learning: Cybersecurity and Networking
+- Aspiring Security Engineer
 - Reach out: **ashmit27j@gmail.com**
 
 ---
@@ -20,7 +17,7 @@ Passionate about problem solving and building impactful digital experiences thro
   *Jun 2025 – July 2025*  
   Working on feature-rich iOS apps using Swift and SwiftUI.
 
-- **UI/UX Designer Intern**  
+- **UI/UX and Web Development Intern**  
   **Synoris Information Systems Pvt. Ltd.** · Hybrid  
   *May 2024 – May 2025*  
   UI/UX Designer & Web Developer crafting seamless, user-focused digital experiences.
