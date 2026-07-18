@@ -7,18 +7,20 @@ I'm an Aspiring Security Engineer with an interest in systems programming, netwo
 
 ### Experience
 
+- **Associate Project Manager Intern**  
+  **Prernaa Enterprises** · Hybrid  
+  *May 2026 – Jun 2026*  
+  Coordinated cross-functional teams, managed project timelines, and supported end-to-end project execution while collaborating with stakeholders and developers.
+
 - **iOS Developer Intern**  
   **Digitas India** · On-site  
-  *Jun 2025 – July 2025*  
+  *Jun 2025 – Jul 2025*  
   Working on feature-rich iOS apps using Swift and SwiftUI.
 
 - **UI/UX and Web Development Intern**  
   **Synoris Information Systems Pvt. Ltd.** · Hybrid  
   *May 2024 – May 2025*  
   UI/UX Designer & Web Developer crafting seamless, user-focused digital experiences.
-
----
-
 ### Connect
 
 - **Portfolio:** https://ashmit27j.github.io
